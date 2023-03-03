@@ -1,0 +1,20 @@
+
+hello hello hello
+yhello hello helloy
+phello hello helloyy
+ yhello hello helloy               p
+ phello hello helloyy
+  yhello hello helloy               p
+  phello hello helloyy
+   yhello hello helloy               p
+   phello hello helloyy
+    yhello hello helloy               p
+    phello hello helloyy
+     yhello hello helloy               p
+     pyy
+      phhhhello hello helloello hello helloello hello helloello hello hello
+       yyyyhello hello helloy               y               y               y
+       ppppyhello hello helloy
+           pyhello hello helloy
+            pyy
+             p
