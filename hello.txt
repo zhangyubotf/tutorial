@@ -4,7 +4,8 @@ yhello hello helloy
 phello hello helloyy
  yhello hello helloy               p
  phello hello helloyy
-  yhello hello helloy               p
+  yhello hello helloaaaaaaaaaa:wq
+  ：:y               p
   phello hello helloyy
    yhello hello helloy               p
    phello hello helloyy
@@ -17,4 +18,7 @@ phello hello helloyy
        ppppyhello hello helloy
            pyhello hello helloy
             pyy
-             p
+     ::       p::;
+     :wq
+     :wqout
+     `
